@@ -63,4 +63,9 @@
       "Package": "shiny",
       "Version": "1.4.0",
       "Source": "CRAN"
+    },
+    "tidyr": {
+      "Package": "tidyr",
+      "Version": "1.0.2",
+      "Source": "CRAN"
     }
