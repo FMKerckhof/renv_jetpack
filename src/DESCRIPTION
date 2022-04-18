@@ -1,0 +1,6 @@
+Package: app
+Imports:
+    config (== 0.3),
+    shiny (== 1.4.0),
+    dplyr (== 0.8.4),
+    tidyr (== 1.0.2)
