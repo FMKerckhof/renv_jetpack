@@ -54,6 +54,11 @@
       "Version": "1.1-2",
       "Source": "CRAN"
     },
+    "config": {
+      "Package": "config",
+      "Version": "0.3",
+      "Source": "CRAN"
+    },
     "shiny": {
       "Package": "shiny",
       "Version": "1.4.0",
