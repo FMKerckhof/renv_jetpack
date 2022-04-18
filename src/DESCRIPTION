@@ -3,4 +3,5 @@ Imports:
     config (== 0.3),
     shiny (== 1.4.0),
     dplyr (== 0.8.4),
-    tidyr (== 1.0.2)
+    tidyr (== 1.0.2),
+    DBI (== 1.1.0)
